@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batzorig Enkhtuvshin</h1>
 <h3 align="center">Software Engineer with 4.5 years of experience developing efficient backend code in the banking industry and tech company.</h3>
 
-- 🌱 I’m currently learning **Symfony and React**
-
 - 📫 How to reach me **batzorig.enkh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
