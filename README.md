@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batzorig Enkhtuvshin</h1>
-<h3 align="center">Software Engineer with 4.5 years of experience developing efficient backend code in the banking industry and tech company.</h3>
+<h3 align="center">Software Engineer with 5 years of experience developing efficient backend code in the banking industry and tech company.</h3>
 
 - 📫 How to reach me **batzorig.enkh@gmail.com**
 
